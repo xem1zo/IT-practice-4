@@ -25,3 +25,6 @@
 * **`my.cnf`** — конфигурация MySQL.
 * **`dump.sql`** — дамп базы данных `shop`.
 * **`README.md`** — описание работы.
+
+## 📸 Скриншоты результатов
+![Скриншот 1: UNION, EXCEPT, INTERSECT](screen6.png)
